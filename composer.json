@@ -3,10 +3,11 @@
     "description": "say hello for Yii2.0",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
+    "homepage": "https://github.com/490011961/yii2-wechat",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "guanghua",
+            "name": "490011961",
             "email": "490011961@qq.com"
         }
     ],
